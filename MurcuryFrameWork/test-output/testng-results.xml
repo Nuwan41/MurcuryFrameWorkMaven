@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="44820" started-at="2017-07-18T18:16:54Z" finished-at="2017-07-18T18:17:39Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="44820" started-at="2017-07-18T18:16:54Z" finished-at="2017-07-18T18:17:39Z">
+      <class name="automationFramework.MecuryTours_TestCases_Neth">
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.MecuryTours_TestCases_Neth@5e3a8624]" name="beforeMethod" is-config="true" duration-ms="994" started-at="2017-07-18T13:16:54Z" finished-at="2017-07-18T13:16:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TestCase1()[pri:0, instance:automationFramework.MecuryTours_TestCases_Neth@5e3a8624]" name="TestCase1" duration-ms="19554" started-at="2017-07-18T13:16:55Z" finished-at="2017-07-18T13:17:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase1 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.MecuryTours_TestCases_Neth@5e3a8624]" name="afterMethod" is-config="true" duration-ms="1542" started-at="2017-07-18T13:17:15Z" finished-at="2017-07-18T13:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.MecuryTours_TestCases_Neth@5e3a8624]" name="beforeMethod" is-config="true" duration-ms="61" started-at="2017-07-18T13:17:16Z" finished-at="2017-07-18T13:17:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TestCase2()[pri:0, instance:automationFramework.MecuryTours_TestCases_Neth@5e3a8624]" name="TestCase2" duration-ms="8742" started-at="2017-07-18T13:17:16Z" finished-at="2017-07-18T13:17:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase2 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.MecuryTours_TestCases_Neth@5e3a8624]" name="afterMethod" is-config="true" duration-ms="896" started-at="2017-07-18T13:17:25Z" finished-at="2017-07-18T13:17:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+        <test-method status="PASS" signature="beforeMethod()[pri:0, instance:automationFramework.MecuryTours_TestCases_Neth@5e3a8624]" name="beforeMethod" is-config="true" duration-ms="36" started-at="2017-07-18T13:17:26Z" finished-at="2017-07-18T13:17:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeMethod -->
+        <test-method status="PASS" signature="TestCase3()[pri:0, instance:automationFramework.MecuryTours_TestCases_Neth@5e3a8624]" name="TestCase3" duration-ms="11509" started-at="2017-07-18T13:17:26Z" finished-at="2017-07-18T13:17:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TestCase3 -->
+        <test-method status="PASS" signature="afterMethod()[pri:0, instance:automationFramework.MecuryTours_TestCases_Neth@5e3a8624]" name="afterMethod" is-config="true" duration-ms="1443" started-at="2017-07-18T13:17:37Z" finished-at="2017-07-18T13:17:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterMethod -->
+      </class> <!-- automationFramework.MecuryTours_TestCases_Neth -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
